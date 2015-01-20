@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calculatorPaddingLeft">4dp</dimen>
+    <dimen name="calculatorPaddingRight">4dp</dimen>
+    <dimen name="calculatorPaddingTop">4dp</dimen>
+    <dimen name="calculatorPaddingBottom">4dp</dimen>
+</resources>
